@@ -9,14 +9,14 @@
       "AbsoluteMoniker": "D:0:0:{9C39520D-FFAC-4D7F-9296-0C5BEFC9AC59}|..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj|c:\\users\\samue\\source\\repos\\cybersecuritychatbot - st10486811\\cybersecuritychatbot_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9C39520D-FFAC-4D7F-9296-0C5BEFC9AC59}|..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj|c:\\users\\samue\\source\\repos\\cybersecuritychatbot - st10486811\\cybersecuritychatbot_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|c:\\users\\samue\\onedrive\\documents\\github\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|solutionrelative:cybersecurity chatbot poe - st10486811\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C39520D-FFAC-4D7F-9296-0C5BEFC9AC59}|..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj|c:\\users\\samue\\source\\repos\\cybersecuritychatbot - st10486811\\cybersecuritychatbot_gui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C39520D-FFAC-4D7F-9296-0C5BEFC9AC59}|..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj|c:\\users\\samue\\source\\repos\\cybersecuritychatbot - st10486811\\cybersecuritychatbot_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|c:\\users\\samue\\onedrive\\documents\\github\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\chatbotclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "CyberSecurity ChatBot POE - ST10486811\\Properties\\AssemblyInfo.cs",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\AssemblyInfo.cs",
@@ -85,21 +85,21 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\ChatBotClass.cs",
               "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\ChatBotClass.cs*",
               "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\ChatBotClass.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCwAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T16:01:06.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml",
               "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T15:58:24.236Z",
+              "WhenOpened": "2026-05-14T20:40:49.187Z",
               "EditorCaption": ""
             },
             {
@@ -108,9 +108,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwC8AAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T15:58:23.798Z",
               "EditorCaption": ""
@@ -160,8 +160,8 @@
               "Title": "CyberSecurityChatbot_GUI",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj",
-              "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj*",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj*",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\CyberSecurityChatBot - ST10486811\\CyberSecurityChatbot_GUI\\CyberSecurityChatbot_GUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-14T18:11:12.313Z",

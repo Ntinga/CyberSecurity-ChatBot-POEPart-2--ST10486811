@@ -5,7 +5,7 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CyberSecurity_ChatBot_POE___ST10486811
+namespace CyberSecurityChatbot_GUI
 {
     internal class ChatBotClass
     {
@@ -19,7 +19,7 @@ namespace CyberSecurity_ChatBot_POE___ST10486811
             {
                 using (SoundPlayer player = new SoundPlayer("Recording.wav"))
                 {
-                    player.PlaySync();
+                    player.Play();
                 }
             }
             catch (Exception)
@@ -28,72 +28,40 @@ namespace CyberSecurity_ChatBot_POE___ST10486811
             }
         }
 
-        public void Start()
+        public class ChatbotClass
         {
-            UIClass.typeMessage("Assistant: Hello! Please enter your name to begin.");
-            Console.Write("You: ");
-            UserName = Console.ReadLine();
+            //Generic Collections
+            public Dictionary<string, string> userMemory = new Dictionary<string, string>();
 
-            // Input validation
-            if (string.IsNullOrEmpty(UserName))
+            public string GetResponse(string input, SentimentDelegate checkSentiment)
             {
-                UserName = "User";
+                string lowerInput = input.ToLower();
+
+                // 1. Keyword Recognition
+                if (lowerInput.Contains("purpose"))
+                    return "My purpose is to educate citizens on identifying cyber threats like phishing.";
+
+                if (lowerInput.Contains("password"))
+                    return "Safe practices include using long, complex passwords and 2FA.";
+
+                if (lowerInput.Contains("phishing"))
+                    return "Phishing is when attackers use fake links to steal data. Check the sender's address!";
+
+                // 2. Default Response
+                return "I'm not sure how to answer that yet. Ask me about 'passwords' or 'phishing'.";
             }
 
-            UIClass.typeMessage($"Assistant: Welcome, {UserName}! I am your Cybersecurity Awareness Bot.", ConsoleColor.Green);
-            UIClass.typeMessage("I'm here to help you stay safe online. How can I assist you today?");
-
-            bool running = true;
-            while (running)
+            // Your existing voice method
+            public void playVoiceMessage()
             {
-                Console.Write($"\n{UserName}: ");
-                string input = Console.ReadLine()?.ToLower().Trim();
-
-                if (string.IsNullOrEmpty(input))
+                try
                 {
-                    UIClass.typeMessage("Assistant: I didn't quite catch that. Could you rephrase?", ConsoleColor.Yellow);
-                    continue;
+                    using (var player = new System.Media.SoundPlayer("Recording.wav"))
+                    {
+                        player.Play();
+                    }
                 }
-
-                if (input.Contains("exit") || input.Contains("bye"))
-                {
-                    UIClass.typeMessage($"Assistant: Stay safe out there, {UserName}! Goodbye.");
-                    running = false;
-                }
-                else
-                {
-                    ProcessInput(input);
-                }
-            }
-        }
-
-        // Response code
-        private void ProcessInput(string input)
-        {
-            if (input.Contains("purpose"))
-            {
-                UIClass.typeMessage("Assistant: My purpose is to educate South African citizens on identifying cyber threats like phishing and identity theft.");
-            }
-            else if (input.Contains("password"))
-            {
-                UIClass.typeMessage("Assistant: Safe practices include using long, complex passwords and enabling Two-Factor Authentication (2FA).");
-            }
-            else if (input.Contains("phishing"))
-            {
-                UIClass.typeMessage("Assistant: Phishing is when attackers use fake emails or links to steal your data. Always check the sender's address!");
-            }
-            else if (input.Contains("browser"))
-            {
-                UIClass.typeMessage("Assistant: Safe browsing means checking for 'https://' and avoiding suspicious pop-ups or unknown downloads.");
-            }
-            else if (input.Contains("how are you"))
-            {
-                UIClass.typeMessage("Assistant: I'm functioning perfectly! Ready to help you protect your data.");
-            }
-            else
-            {
-                // In case the prompt is too difficult or is not accounted for, default response below
-                UIClass.typeMessage("Assistant: I'm not sure how to answer that yet. Ask me about 'passwords', 'phishing', or my 'purpose'.", ConsoleColor.Yellow);
+                catch { /* Handle missing file */ }
             }
         }
     }

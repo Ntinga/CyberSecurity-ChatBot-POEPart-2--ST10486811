@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samue\\source\\repos\\CyberSecurity ChatBot POE - ST10486811\\",
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|c:\\users\\samue\\source\\repos\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\chatbotclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|c:\\users\\samue\\onedrive\\documents\\github\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\chatbotclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|solutionrelative:cybersecurity chatbot poe - st10486811\\chatbotclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|C:\\Users\\samue\\source\\repos\\CyberSecurity ChatBot POE - ST10486811\\cybersecurity chatbot poe - st10486811\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|c:\\users\\samue\\onedrive\\documents\\github\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\uiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|solutionrelative:cybersecurity chatbot poe - st10486811\\uiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|c:\\users\\samue\\onedrive\\documents\\github\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\cybersecurity chatbot poe - st10486811\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF75F03-665A-4AC0-BA25-41D7747B11B9}|CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811.csproj|solutionrelative:cybersecurity chatbot poe - st10486811\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatBotClass.cs",
-              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
-              "RelativeDocumentMoniker": "CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
-              "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
-              "RelativeToolTip": "CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UIClass.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\UIClass.cs",
+              "RelativeDocumentMoniker": "CyberSecurity ChatBot POE - ST10486811\\UIClass.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\UIClass.cs",
+              "RelativeToolTip": "CyberSecurity ChatBot POE - ST10486811\\UIClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T18:47:06.85Z",
+              "WhenOpened": "2026-03-31T19:04:11.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\Program.cs",
               "RelativeDocumentMoniker": "CyberSecurity ChatBot POE - ST10486811\\Program.cs",
-              "ToolTip": "C:\\Users\\samue\\source\\repos\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\Program.cs",
               "RelativeToolTip": "CyberSecurity ChatBot POE - ST10486811\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T18:45:28.211Z"
+              "WhenOpened": "2026-03-31T19:02:32.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatBotClass.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
+              "RelativeDocumentMoniker": "CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documents\\GitHub\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
+              "RelativeToolTip": "CyberSecurity ChatBot POE - ST10486811\\ChatBotClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:02:29.168Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -55,19 +55,7 @@ namespace CyberSecurityChatbot_GUI
 
                 // 2. Default Response
                 return "I'm not sure how to answer that yet. Ask me about 'passwords' or 'phishing'.";
-            }
-
-            // Your existing voice method
-            public void playVoiceMessage()
-            {
-                try
-                {
-                    using (var player = new System.Media.SoundPlayer("Recording.wav"))
-                    {
-                        player.Play();
-                    }
-                }
-                catch { /* Handle missing file */ }
+            
             }
         }
     }

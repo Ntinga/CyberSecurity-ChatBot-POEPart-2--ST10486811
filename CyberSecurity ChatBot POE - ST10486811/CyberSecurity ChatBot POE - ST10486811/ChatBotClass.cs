@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace CyberSecurityChatbot_GUI
 {
+    public delegate string SentimentDelegate(string input);
     internal class ChatBotClass
     {
         public string UserName { get; set; }
@@ -26,6 +27,11 @@ namespace CyberSecurityChatbot_GUI
             {
                 Console.WriteLine("System Note: Welcome audio not found.");
             }
+        }
+        public void Start()
+        {
+            
+            System.Console.WriteLine("Bot is running...");
         }
 
         public class ChatbotClass
